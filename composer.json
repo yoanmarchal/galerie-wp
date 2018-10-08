@@ -1,0 +1,14 @@
+{
+    "name": "yoanmarchal/galerie-wp",
+    "description": "add galerie ctp",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Yoan marchal",
+            "email": "marchalyoan@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
